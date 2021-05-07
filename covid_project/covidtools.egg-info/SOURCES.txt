@@ -1,4 +1,8 @@
+Untitled.ipynb
+homework_class-Copy1.ipynb
 setup.py
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/homework_class-Copy1-checkpoint.ipynb
 covidtools/__init__.py
 covidtools/covidtools.py
 covidtools/utils.py
@@ -7,3 +11,6 @@ covidtools.egg-info/SOURCES.txt
 covidtools.egg-info/dependency_links.txt
 covidtools.egg-info/not-zip-safe
 covidtools.egg-info/top_level.txt
+covidtools/__pycache__/__init__.cpython-38.pyc
+covidtools/__pycache__/covidtools.cpython-38.pyc
+covidtools/__pycache__/utils.cpython-38.pyc

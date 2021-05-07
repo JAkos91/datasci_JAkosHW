@@ -27,12 +27,14 @@ class CovidData:
     def plot(self):
         return px.line(self.results)
      
-
+    @staticmethod
+    def hello(name):
+        print(f"Hello {name}!")
         
     @classmethod
     def changeType(cls, datatype):
         cls.datatype =datatype
-    
+
 class Literature:
     
     def first():
